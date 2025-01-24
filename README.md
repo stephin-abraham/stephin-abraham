@@ -1,16 +1,16 @@
-## Hi there 👋
+**Software Test Engineer | Web and Mobile Applications | Automation & Manual Testing Enthusiast
+Company: Qapitol QA Services & Pvt Ltd, Bangalore, India
+Role: Software Test Engineer**
 
-<!--
-**stephin-abraham/stephin-abraham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Currently working on: Automation testing for both web and mobile applications, enhancing test coverage and efficiency.
+🌱 Currently learning: OAuth to improve security practices in API testing.
+💬 Ask me anything about: Java, Selenium, Appium, TestNG, Automation Testing, Manual Testing.
+📫 How to reach me: https://www.linkedin.com/in/stephin-abraham/
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Skills & Technologies:**
+Languages & Frameworks: Java, JavaScript, HTML, CSS
+Automation Tools: Selenium, Appium, TestNG
+Manual Testing: Test case writing, execution, bug tracking, bug reporting, functional testing
+Mobile Automation: Appium
+Web Application Testing: Selenium, RESTful API testing
+Databases: SQL
