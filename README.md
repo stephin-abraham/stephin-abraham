@@ -8,7 +8,7 @@ Role: Software Test Engineer**
 📫 How to reach me: https://www.linkedin.com/in/stephin-abraham/
 
 **Skills & Technologies:**
-Languages & Frameworks: Java, JavaScript, HTML, CSS
+Languages & Frameworks: Java, Python, JavaScript, HTML, CSS
 Automation Tools: Selenium, Appium, TestNG
 Manual Testing: Test case writing, execution, bug tracking, bug reporting, functional testing
 Mobile Automation: Appium
